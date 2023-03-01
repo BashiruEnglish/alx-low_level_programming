@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdlib.h>
+
 
 /**
  * print_number - print numbers and characters
